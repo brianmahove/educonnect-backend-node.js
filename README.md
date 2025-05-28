@@ -133,6 +133,6 @@ This project is licensed under the [Your License Here, e.g., MIT License] - see 
 
 ## Contact
 
-Your Name - [Your Email/LinkedIn Profile]
+Brian MAhove - Email: mahovebrian@gmail.com/ - LinkedIn Profile: https://www.linkedin.com/in/brianmahove/
 
-Project Link: [https://github.com/YourUsername/educonnect](https://github.com/YourUsername/educonnect)
+Project Link: https://github.com/brianmahove/educonnect-backend-node.js
